@@ -1,5 +1,7 @@
 RENCANA SISTEM BARU
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - Reactjs
