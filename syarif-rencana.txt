@@ -5,3 +5,5 @@ RENCANA SISTEM BARU
   * Framework Javascript
 - PHP Framework
 - Reactjs
+- Angular
+- Laravel 8
